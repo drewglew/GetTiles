@@ -1,0 +1,10 @@
+C:\Users\AGL027\Source\Repos\GetTiles\GetTiles\bin\Debug\GetTiles.exe
+C:\Users\AGL027\Source\Repos\GetTiles\GetTiles\bin\Debug\GetTiles.exe.config
+C:\Users\AGL027\Source\Repos\GetTiles\GetTiles\obj\Debug\GetTiles.MainForm.resources
+C:\Users\AGL027\Source\Repos\GetTiles\GetTiles\obj\Debug\GetTiles.Properties.Resources.resources
+C:\Users\AGL027\Source\Repos\GetTiles\GetTiles\obj\Debug\GetTiles.csproj.GenerateResource.Cache
+C:\Users\AGL027\Source\Repos\GetTiles\GetTiles\obj\Debug\GetTiles.csproj.CoreCompileInputs.cache
+C:\Users\AGL027\Source\Repos\GetTiles\GetTiles\obj\Debug\GetTiles.exe
+C:\Users\AGL027\Source\Repos\GetTiles\GetTiles\obj\Debug\GetTiles.pdb
+C:\Users\AGL027\Source\Repos\GetTiles\GetTiles\bin\Debug\GetTiles.pdb
+C:\Users\AGL027\Source\Repos\GetTiles\GetTiles\obj\Debug\GetTiles.csprojResolveAssemblyReference.cache
